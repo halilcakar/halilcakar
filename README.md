@@ -1,10 +1,10 @@
 Hi 👋 My name is Halil.
 =======================
 
-I'm a Frontend Engineer @getir
+I'm a Frontend Developer @knowron
 ------------------------------
 
-* 🌍  I'm based in Izmir, Turkey
+* 🌍  I'm based in Munich, Germany
 * ⚡  I'm a big fun of having coffee and time to time I drink up to 10 cups
 
 ### Skills
