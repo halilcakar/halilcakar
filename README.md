@@ -1,7 +1,7 @@
 Hi 👋 My name is Halil.
 =======================
 
-I'm a Frontend Developer @knowron
+I'm a Frontend Developer
 ------------------------------
 
 * 🌍  I'm based in Munich, Germany
